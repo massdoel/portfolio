@@ -114,10 +114,9 @@ Proyek ini dibuat untuk tujuan portofolio pribadi. Silakan gunakan kode ini seba
 ## 📬 Kontak
 
 Jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi, jangan ragu untuk menghubungi saya:
-
-- **Email**: [abdullah.khairikk@gmail.com]
-- **LinkedIn**: [linkedin.com/in/abdullah-jiddan]
-- **GitHub**: [github.com/massdoel]
+Email: [your.email@example.com] (ganti dengan email Anda)
+LinkedIn: [linkedin.com/in/abdullah-jiddan-al] (ganti dengan link Anda)
+GitHub: [github.com/abdullah-jiddan-al] (ganti dengan username Anda)
 
 ---
 

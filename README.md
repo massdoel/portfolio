@@ -110,14 +110,13 @@ Cara termudah untuk men-deploy portofolio ini adalah menggunakan [Vercel](https:
 Proyek ini dibuat untuk tujuan portofolio pribadi. Silakan gunakan kode ini sebagai referensi atau pembelajaran, namun harap berikan kredit jika menggunakan bagian signifikan dari kode ini untuk proyek Anda sendiri.
 
 ---
-
 ## 📬 Kontak
 
 Jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi, jangan ragu untuk menghubungi saya:
-Email: [your.email@example.com] (ganti dengan email Anda)
-LinkedIn: [linkedin.com/in/abdullah-jiddan-al] (ganti dengan link Anda)
-GitHub: [github.com/abdullah-jiddan-al] (ganti dengan username Anda)
 
+- **Email**: [abdullah.khairikk@gmail.com](mailto:abdullah.khairikk@gmail.com)
+- **LinkedIn**: [linkedin.com/in/abdullah-jiddan](https://linkedin.com/in/abdullah-jiddan)
+- **GitHub**: [github.com/massdoel](https://github.com/massdoel)
 ---
 
 *Dibuat dengan ❤️ dan 🧊 (Three.js) oleh Abdullah Jiddan Al.*

@@ -19,6 +19,7 @@ export const projects = [
       'Memegang alur produksi dari prepress, printing XP600, laser cutting, sampai QC dan perawatan mesin. GANTI: tambahkan angka (mis. jumlah order/bulan, penurunan reject).',
     tags: ['Prepress', 'XP600', 'Laser Cutting', 'QC'],
     link: 'https://my-portofolia.blogspot.com',
+    image: '/images/projects/p1-printing.jpg',
   },
   {
     title: 'Layout & Desain Produk Cetak',
@@ -27,6 +28,7 @@ export const projects = [
       'Menyiapkan layout dan desain produk cetak untuk berbagai kebutuhan customer agar siap produksi. GANTI: sebutkan produk/klien dan hasilnya.',
     tags: ['Layout', 'Desain Produk', 'Print Media'],
     link: 'https://my-portofolia.blogspot.com',
+    image: '/images/projects/p2-layout.jpg',
   },
   {
     title: 'Desain & Pengajaran Desain',
@@ -35,6 +37,7 @@ export const projects = [
       'Mengerjakan desain untuk platform dan mengajar desain di tingkat SMA. GANTI: tambahkan jumlah siswa / karya yang dihasilkan.',
     tags: ['Graphic Design', 'Mengajar', 'Web Design'],
     link: 'https://my-portofolia.blogspot.com',
+    image: '/images/projects/p3-teaching.jpg',
   },
   {
     title: 'Smart Farming & Otomasi (Magang)',
@@ -43,6 +46,7 @@ export const projects = [
       'Pengalaman awal di jaringan, SCADA, dan otomasi industri yang membentuk minat saya pada pemrograman.',
     tags: ['SCADA', 'Jaringan', 'Otomasi'],
     link: 'https://my-portofolia.blogspot.com',
+    image: '/images/projects/p4-smartfarming.jpg',
   },
 ]
 

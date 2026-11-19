@@ -1,7 +1,3 @@
-Berikut adalah draf **README.md** yang profesional, terstruktur, dan menarik untuk portofolio 3D Anda. README ini dirancang agar mudah dipahami oleh developer lain maupun rekruter, dengan penekanan pada fitur 3D dan kemudahan kustomisasi.
-
----
-
 # 🌌 Portofolio 3D — Abdullah Jiddan Al
 
 Selamat datang di repositori portofolio web 3D interaktif saya. Proyek ini dibangun menggunakan **Next.js**, **React Three Fiber (R3F)**, dan **Tailwind CSS** untuk menciptakan pengalaman visual yang imersif, modern, dan responsif, sekaligus tetap performa tinggi.
@@ -119,9 +115,9 @@ Proyek ini dibuat untuk tujuan portofolio pribadi. Silakan gunakan kode ini seba
 
 Jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi, jangan ragu untuk menghubungi saya:
 
-- **Email**: abdullah.khairikk@gmail.com
-- **LinkedIn**: https://linkedin.com/in/abdullah-jiddan
-- **GitHub**: https://github.com/massdoel
+- **Email**: [abdullah.khairikk@gmail.com]
+- **LinkedIn**: [linkedin.com/in/abdullah-jiddan]
+- **GitHub**: [github.com/massdoel]
 
 ---
 

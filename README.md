@@ -120,8 +120,8 @@ Proyek ini dibuat untuk tujuan portofolio pribadi. Silakan gunakan kode ini seba
 Jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi, jangan ragu untuk menghubungi saya:
 
 - **Email**: abdullah.khairikk@gmail.com
-- **LinkedIn**: [linkedin.com/in/abdullah-jiddan
-- **GitHub**: github.com/massdoel
+- **LinkedIn**: https://linkedin.com/in/abdullah-jiddan
+- **GitHub**: https://github.com/massdoel
 
 ---
 
